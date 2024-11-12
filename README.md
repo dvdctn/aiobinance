@@ -1,4 +1,4 @@
-# Async Binance API connector
+# Async Binance API connector with rate-limit management
 
 ## Description
 
